@@ -1,6 +1,6 @@
 /**
- * @author Luka Dumonic
- * @id 12130861
+ * @author <>
+ * @id matrnr
  */
 
 trait Logger {
